@@ -1,2 +1,0 @@
-HYY
-hello
